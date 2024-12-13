@@ -83,5 +83,3 @@ Menu :
 ## Licence
 
 Ce projet est distribué sous la licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
-
-
