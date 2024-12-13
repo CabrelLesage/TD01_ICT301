@@ -31,7 +31,7 @@ Ce projet propose une solution pour la gestion des notes académiques des étudi
 ## Installation
 1. Clonez le dépôt du projet :
    ```bash
-   git clone (https://github.com/CabrelLesage/TD01_ICT301)
+   git clone https://github.com/CabrelLesage/TD01_ICT301
    ```
 2. Ouvrez le projet dans votre IDE ou accédez au répertoire contenant les fichiers depuis votre terminal.
 
